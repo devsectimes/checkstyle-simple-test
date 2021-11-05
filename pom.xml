@@ -55,7 +55,7 @@
 
       <plugins>
 
-<!--
+
         <plugin>
                 <groupId>com.github.github</groupId>
                 <artifactId>site-maven-plugin</artifactId>
@@ -78,7 +78,6 @@
             </plugin>
 
 
--->
         <plugin>
           <artifactId>maven-compiler-plugin</artifactId>
           <version>${compiler-plugin.version}</version>
